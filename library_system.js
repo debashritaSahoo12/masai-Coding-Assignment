@@ -29,4 +29,4 @@ const newSection = {
 
 const updatedLibrary = updateLibrary(library, newSection);
 
-console.log(JSON.stringify(updatedLibrary,null,2));
+console.log(JSON.stringify(updatedLibrary));
